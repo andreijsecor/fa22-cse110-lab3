@@ -1,2 +1,2 @@
 # Lab 2 - Starter
-Part 1 page link:
+Github page link: https://andreijsecor.github.io/fa22-cse110-lab3/
