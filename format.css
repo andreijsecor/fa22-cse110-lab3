@@ -27,7 +27,10 @@ header {
     border: 1px dashed black;
     height: 4ex;
     min-width: 25px;
-    max-width: 10em
+    max-width: 10em;
+    position: relative;
+    left: 40px;
+    top: 10px
 }
 
 .boxV {
