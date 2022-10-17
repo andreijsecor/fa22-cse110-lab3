@@ -12,3 +12,7 @@ header {
     border: 2px solid red;
     width: 1.5in
 }
+
+.alist {
+    font-size: 0.9em
+}
