@@ -28,13 +28,16 @@ header {
     height: 4ex;
     min-width: 25px;
     max-width: 10em;
-    position: relative;
-    left: 40px;
-    top: 10px
+    position: static
 }
 
 .boxV {
-    display: block
+    display: block;
+    position: relative;
+    left: 40px;
+    top: 10px;
+    border: 1px solid gray;
+    width: 16em
 }
 
 button:hover {
