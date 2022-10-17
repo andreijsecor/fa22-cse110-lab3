@@ -1,3 +1,14 @@
 header {
+    background-color: greenyellow;
     color: blue
+}
+
+.top {
+    font-size: 1.5em
+}
+
+.box {
+    display: block;
+    border: 2px solid red;
+    width: 1.5in
 }
