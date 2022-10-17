@@ -23,9 +23,18 @@ header {
 }
 
 .boxA {
-    display: block
+    display: block;
+    border: 1px dashed black;
+    height: 4ex;
+    min-width: 25px;
+    max-width: 10em
 }
 
 .boxV {
     display: block
+}
+
+button:hover {
+    background-color:greenyellow;
+    color: red
 }
