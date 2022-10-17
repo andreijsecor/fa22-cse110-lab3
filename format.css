@@ -35,6 +35,11 @@ header {
 }
 
 button:hover {
-    background-color:greenyellow;
+    background-color: greenyellow;
     color: red
+}
+
+button:active {
+    background-color: black;
+    color: white
 }
