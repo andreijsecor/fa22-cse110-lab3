@@ -9,6 +9,15 @@ header {
 
 .box {
     display: block;
-    border: 2px solid red;
-    width: 1.5in
+    border: 3px solid red;
+    padding: 1px 1px 1px 1px;
+    margin: 2px 2px 2px 2px;
+    width: 5em;
+    text-align: center
+}
+
+.alist {
+    font-size: 0.9em;
+    text-decoration: wavy underline red;
+    color: darkred
 }
