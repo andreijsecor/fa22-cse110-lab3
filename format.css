@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Fuzzy Bubbles";
+    src: url("./Fuzzy_Bubbles/FuzzyBubbles-Regular.ttf")
+}
+
 header {
     background-color: greenyellow;
     color: blue
@@ -19,5 +24,34 @@ header {
 .alist {
     font-size: 0.9em;
     text-decoration: wavy underline red;
-    color: darkred
+    color: darkred;
+    font-family: "Fuzzy Bubbles"
+}
+
+.boxA {
+    display: block;
+    border: 1px dashed black;
+    height: 4ex;
+    min-width: 25px;
+    max-width: 10em;
+    position: static
+}
+
+.boxV {
+    display: block;
+    position: relative;
+    left: 40px;
+    top: 10px;
+    border: 1px solid gray;
+    width: 16em
+}
+
+button:hover {
+    background-color: greenyellow;
+    color: red
+}
+
+button:active {
+    background-color: black;
+    color: white
 }
