@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Fuzzy Bubbles";
+    src: url("./Fuzzy_Bubbles/FuzzyBubbles-Regular.ttf")
+}
+
 header {
     background-color: greenyellow;
     color: blue
@@ -19,7 +24,8 @@ header {
 .alist {
     font-size: 0.9em;
     text-decoration: wavy underline red;
-    color: darkred
+    color: darkred;
+    font-family: "Fuzzy Bubbles"
 }
 
 .boxA {
