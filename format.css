@@ -21,3 +21,11 @@ header {
     text-decoration: wavy underline red;
     color: darkred
 }
+
+.boxA {
+    display: block
+}
+
+.boxV {
+    display: block
+}
